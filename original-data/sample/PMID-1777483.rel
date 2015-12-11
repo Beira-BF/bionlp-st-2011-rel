@@ -1,0 +1,18 @@
+*	Equiv T8 T9
+T14	Entity 16 32	kappa B enhancer
+T15	Entity 145 155	NF-kappa B
+T16	Entity 183 193	NF-kappa B
+T17	Entity 262 272	NF-kappa B
+T18	Entity 477 494	kappa B enhancers
+T19	Entity 638 648	NF-kappa B
+T20	Entity 706 722	kappa B enhancer
+T21	Entity 857 867	NF-kappa B
+T22	Entity 902 912	NF-kappa B
+T23	Entity 942 958	kappa B enhancer
+T24	Entity 1051 1061	NF-kappa B
+R1	Protein-Component Arg1:T1 Arg2:T14
+R2	Subunit-Complex Arg1:T3 Arg2:T16
+R3	Subunit-Complex Arg1:T2 Arg2:T16
+R4	Subunit-Complex Arg1:T5 Arg2:T17
+R5	Subunit-Complex Arg1:T4 Arg2:T17
+R6	Protein-Component Arg1:T8 Arg2:T20
